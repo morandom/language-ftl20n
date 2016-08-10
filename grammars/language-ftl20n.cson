@@ -74,4 +74,9 @@
       'end': '\\>{7}.*\\n'
       'name': 'support.function.ftl20n'
     }
+    {
+      # Description Comments
+      'begin': '##'
+      'name': 'support.class.ftl20n'
+    }
 ]
